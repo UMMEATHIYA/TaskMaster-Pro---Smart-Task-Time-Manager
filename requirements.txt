@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+SQLAlchemy
+pydantic
+python-dotenv
+celery
+redis
+email-validator
+yagmail
