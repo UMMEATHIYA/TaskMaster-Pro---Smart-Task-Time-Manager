@@ -70,3 +70,6 @@ POST /send-summary/
  Export tasks as PDF/CSV
 
  Tagging and filters
+
+
+echo "Pair badge test" >> README.md
